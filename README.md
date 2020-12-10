@@ -8,13 +8,19 @@ You can Add a ToDo, Assign it a Category, Give it a Deadline, and Bam! Check thi
 
 ## See it in Actionable Gif's
 Add a Todo
+<img src="https://github.com/AmmarKamran/SmartToDos.io/blob/main/LearningMERNStack/Gifs/Add%20Tasks.gif" width="400" height="200" />
+
 
 See Your Progress
- 
+ <img src="https://github.com/AmmarKamran/SmartToDos.io/blob/main/LearningMERNStack/Gifs/ProgressBar.gif" width="400" height="200" />
+
+
 Check Something Off & Delete - And Start a Brand New Todo List from a Standardized Template
+<img src="https://github.com/AmmarKamran/SmartToDos.io/blob/main/LearningMERNStack/Gifs/EntireDeleteAndReset.gif" width="400" height="200" />
 
 
 Upcoming Features
+<img src="https://github.com/AmmarKamran/SmartToDos.io/blob/main/LearningMERNStack/Gifs/InProgress.gif" width="400" height="200" />
 
 
 ## How to Use
