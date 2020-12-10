@@ -1,3 +1,29 @@
 # SmartToDos.io
 
-A MERN Stack App to Manage Your ToDo's: You can Add a ToDo, Assign it a Category, Highlight a Priority, Give it a Deadline, and Bam! Check things off when you're done, and manage your life! Developed with React, Node.Js, Express, and all stored in a MongoDB Back-End Database.
+## What is it?
+A MERN Stack App to Manage Your ToDo's! Developed with React, Node.Js, Express, and all stored in a MongoDB Back-End Database.
+
+## Features
+You can Add a ToDo, Assign it a Category, Give it a Deadline, and Bam! Check things off when you're done, and manage your life! 
+
+## See it in Actionable Gif's
+Add a Todo
+
+Check Something Off & Delete
+
+See Your Progress
+
+Upcoming Features
+
+
+## How to Use
+### FrontEnd Hosted Live On: 
+https://smart-to-dos-io.vercel.app/
+
+### BackEnd:
+1. Clone the Repo
+2. Run "Npm I"
+2. Enter Back-End Directory
+4. Execute: "Nodemon run"
+
+
