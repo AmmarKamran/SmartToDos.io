@@ -9,9 +9,10 @@ You can Add a ToDo, Assign it a Category, Give it a Deadline, and Bam! Check thi
 ## See it in Actionable Gif's
 Add a Todo
 
-Check Something Off & Delete
-
 See Your Progress
+ 
+Check Something Off & Delete - And Start a Brand New Todo List from a Standardized Template
+
 
 Upcoming Features
 
