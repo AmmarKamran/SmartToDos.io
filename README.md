@@ -7,20 +7,22 @@ A MERN Stack App to Manage Your ToDo's! Developed with React, Node.Js, Express, 
 You can Add a ToDo, Assign it a Category, Give it a Deadline, and Bam! Check things off when you're done, and manage your life! 
 
 ## See it in Actionable Gif's
-Add a Todo
-<img src="https://github.com/AmmarKamran/SmartToDos.io/blob/main/LearningMERNStack/Gifs/Add%20Tasks.gif" width="400" height="200" />
+### Add a TODO to your list
+<br/> <img src="https://github.com/AmmarKamran/SmartToDos.io/blob/main/LearningMERNStack/Gifs/Add%20Tasks.gif" />
+
+### See Your Progress
+<br/>
+<img src="https://github.com/AmmarKamran/SmartToDos.io/blob/main/LearningMERNStack/Gifs/ProgressBar.gif"  />
 
 
-See Your Progress
- <img src="https://github.com/AmmarKamran/SmartToDos.io/blob/main/LearningMERNStack/Gifs/ProgressBar.gif" width="400" height="200" />
+### Check Something Off & Delete - And Start a Brand New Todo List from a Standardized Template
+<br/>
+<img src="https://github.com/AmmarKamran/SmartToDos.io/blob/main/LearningMERNStack/Gifs/EntireDeleteAndReset.gif"  />
 
 
-Check Something Off & Delete - And Start a Brand New Todo List from a Standardized Template
-<img src="https://github.com/AmmarKamran/SmartToDos.io/blob/main/LearningMERNStack/Gifs/EntireDeleteAndReset.gif" width="400" height="200" />
-
-
-Upcoming Features
-<img src="https://github.com/AmmarKamran/SmartToDos.io/blob/main/LearningMERNStack/Gifs/InProgress.gif" width="400" height="200" />
+### Upcoming Features
+<br/>
+<img src="https://github.com/AmmarKamran/SmartToDos.io/blob/main/LearningMERNStack/Gifs/InProgress.gif" />
 
 
 ## How to Use
